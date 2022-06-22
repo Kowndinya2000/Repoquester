@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/506275894.svg)](https://zenodo.org/badge/latestdoi/506275894)
+
 # RepoQuester
 RepoQuester is a command-line tool to assist developers in evaluating projects by providing quantitative scores for ten metrics that span project collaboration, quality and maintenance. 
 
